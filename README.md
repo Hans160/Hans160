@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hans160
+- 👋 Hi, I’m @Hans160 nice to meet you
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML/css/js.node / git / github / Linux
 - 💞️ I’m looking to collaborate on ...
